@@ -1,4 +1,4 @@
-Sites I used:
+Sites/Resources I used:
 
 w3school
 
@@ -9,4 +9,12 @@ https://www.tutorialspoint.com/How-to-add-background-music-to-your-web-page
 
 https://www.chosic.com/download-audio/29425/
 
-I should add a timestamp (or approx) to each page and a Feeling: thing
+https://cloudconvert.com/m4a-to-mp3
+
+https://pixabay.com/sound-effects/
+
+https://blog.hubspot.com/website/center-div-css
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay
+
+https://www.tutorialspoint.com/How-to-redirect-website-after-certain-amount-of-time-without-JavaScript
